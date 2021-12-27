@@ -188,6 +188,10 @@ section .title::after{
     font-weight: 600;
     margin-left: -3px;
 }
+.home .home-content .text-2:hover{
+    color: crimson;
+    background: none;
+} 
 /* .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
@@ -195,7 +199,7 @@ section .title::after{
 .home .home-content .text-3 span{
     color: crimson;
     font-weight: 500;
-} */
+} 
 .home .home-content a{
     display: inline-block;
     background: crimson;
@@ -211,7 +215,7 @@ section .title::after{
 .home .home-content a:hover{
     color: crimson;
     background: none;
-}
+}*/
 
 /* about section styling */
 .about .title::after{
